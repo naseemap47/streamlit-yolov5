@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+# YOLOv8 --------------------------------------
+ultralytics
+
+# Streamlit -----------------------------------
+streamlit
